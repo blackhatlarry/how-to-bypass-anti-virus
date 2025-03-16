@@ -1,4 +1,4 @@
-# how-to-bypass-anti-virus
+# how to bypass anti virus
 
 
 the anti virus is easy to bypass lol
@@ -17,4 +17,4 @@ discord rat 2.0 https://github.com/moom825/Discord-RAT-2.0
 
 discord auto spreader https://github.com/moom825/Discord-RAT-2.0
 
-# and-thats-it
+# and thats it
